@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 
-   static int i,pos = 0, k, n[20], r = 1, c = 1, down = 1, count;
+    static int i, pos = 0, k, n[20], r = 1, c = 1, down = 1, count;
 
     cin >> count;
 
